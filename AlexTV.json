@@ -2,20 +2,20 @@
 //以下为互联网收集自用
 {
   "sites": [
-    {
-      "key": "csp_Kunyu77",
-      "name": "🌤酷云七七",
+     {
+      "key": "csp_CZSPP",
+      "name": "🏭厂长资源",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_CZSPP",
-      "name": "🏭厂长资源",
+      "key": "csp_Kunyu77",
+      "name": "🌤酷云七七",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
